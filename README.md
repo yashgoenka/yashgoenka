@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashgoenka
 - 📚 Computer Science & Data Science
 - 🎓 UC Berkeley
-- 📫 ceo@instawrite.ai
+- 📫 yash@instawrite.ai
 
 <!---
 yashgoenka/yashgoenka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
