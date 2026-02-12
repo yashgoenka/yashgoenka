@@ -1,4 +1,4 @@
-I like python 🐍 and llms 🦙
+I like python and llms 🦙
  
  <!---
 yashgoenka/yashgoenka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
