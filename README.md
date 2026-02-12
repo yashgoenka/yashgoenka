@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @yashgoenka
 - 🦙 I like python and llms
  
  <!---
